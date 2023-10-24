@@ -6,12 +6,12 @@ Lea here, my pronouns are she / her.
 	![picture of Lea](https://i.ytimg.com/vi/SNggmeilXDQ/maxresdefault.jpg)
  
 My Skill List is
--Html
--Css
--Shopify liquid
--Framework Tailwind
--working with VS.code
--Basics in JavaScript 
+- Html
+- Css
+- Shopify liquid
+- Framework Tailwind
+- working with VS.code
+- Basics in JavaScript 
 
 
 > I'm for ever on a learning journey. 
