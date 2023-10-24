@@ -1,12 +1,14 @@
 ### Hello there 
 
 
-Lea here, I'm 30, single parent and my pronouns are she / her.
+**Lea here**, I'm 30, single parent and my pronouns are **she / her**.
 
 
 **I'm a Junior Frontend Developer and currently learning how to be a Web Developer.**
-<br/>
-![picture of Lea](https://i.ytimg.com/vi/SNggmeilXDQ/maxresdefault.jpg)
+
+
+
+<img alt="A Picture of a baby elephant" width="400" src="https://i.ytimg.com/vi/SNggmeilXDQ/maxresdefault.jpg">
  
 My Skill List
 - <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
